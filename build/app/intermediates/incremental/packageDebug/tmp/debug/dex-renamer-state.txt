@@ -1,0 +1,4 @@
+#Thu Aug 11 23:12:02 ICT 2022
+base.0=D\:\\Ucic\\Semester 4\\06 Mobile Programming\\Flutter\\bookingapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
